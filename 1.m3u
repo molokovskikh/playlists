@@ -1,66 +1,60 @@
 ﻿#EXTM3U type=ts dlna_extras=mpeg2 
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rbc.jpg group-title="Новости" ,РБК ТВ
-udp://@233.7.70.22:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/euronews.jpg group-title="Новости" ,Euronews
+#EXTINF:0 logo= group-title="Новости" ,VIJU Nature
+udp://@233.7.70.22:5000Na
+#EXTINF:0 logo= group-title="Новости" ,Ретро
 udp://@233.7.70.42:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/music_box_ru.jpg group-title="Музыка" ,Music Box
+#EXTINF:0 logo= group-title="Музыка" ,VIJU TV1000
 udp://@233.7.70.53:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/russian_musicbox.jpg group-title="Музыка" ,Music Box RU
+#EXTINF:0 logo= group-title="Музыка" ,Уникум
 udp://@233.7.70.54:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/discovery_world.jpg deinterlace=4 group-title="Познавательные" ,Discovery World
-udp://@233.7.70.28:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tlc_ru.jpg group-title="Познавательные" ,TLC
+#EXTINF:0 logo= group-title="Познавательные" ,Футбол 1
 udp://@233.7.70.29:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_explorer_ru.jpg group-title="Познавательные" ,Viasat Explorer
-udp://@233.7.70.33:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_ru.jpg group-title="Познавательные" ,National Geographic
-udp://@233.7.70.32:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_drive.jpg group-title="Познавательные" ,Драйв
+#EXTINF:0 logo= group-title="Познавательные" ,Футбол 2
 udp://@233.7.70.31:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_zdorovoe_tv.jpg group-title="Познавательные" ,Здоровое ТВ
+#EXTINF:0 logo= group-title="Познавательные" ,Plan B
+udp://@233.7.70.33:5000
+#EXTINF:0 logo= group-title="Познавательные" ,соловьевlive
+udp://@233.7.70.32:5000
+#EXTINF:0 logo= group-title="Познавательные" , Дикий. Охота и рыбалка
 udp://@233.7.70.49:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_usadba_telekanal.jpg group-title="Познавательные" ,Усадьба
+#EXTINF:0 logo= group-title="Познавательные" ,Доктор
 udp://@233.7.70.51:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/oo/okhota_i_rybalka.jpg group-title="Познавательные" ,Охота и рыбалка
+#EXTINF:0 logo= group-title="Познавательные" ,Ля-ми-нор
 udp://@233.7.70.48:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/da_vinci_learning.jpg group-title="Познавательные" ,Da Vinci Learning
+#EXTINF:0 logo= group-title="Познавательные" ,RuTV
 udp://@233.7.70.63:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/amazing_life.jpg group-title="Познавательные" ,Amazing Life
+#EXTINF:0 logo= group-title="Познавательные" ,VIJU TV1000 русское
 udp://@233.7.70.21:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/agro_tv_ru.jpg group-title="Познавательные" ,Агро ТВ
+#EXTINF:0 logo= group-title="Познавательные" ,WFC.TV
 udp://@233.7.70.57:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/perviy_obrazovatelniy.jpg deinterlace=4 group-title="Познавательные" ,Первый образовательный
+#EXTINF:0 logo= deinterlace=4 group-title="Познавательные" ,Мульт Музыка
 udp://@233.7.70.23:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/telekanal_2x2_moskva.jpg group-title="Детские" ,2х2 (+5)
+#EXTINF:0 logo= group-title="Детские" ,Terra
 udp://@233.7.70.43:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/karusel_tv.jpg group-title="Детские" ,Карусель
+#EXTINF:0 logo= group-title="Детские" ,Ф
 udp://@233.7.70.40:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_ru.jpg group-title="Детские" ,Disney
+#EXTINF:0 logo= group-title="Детские" ,БелРос
 udp://@233.7.70.9:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mat_i_ditya.jpg group-title="Детские" ,Мать и дитя
+#EXTINF:0 logo= group-title="Детские" ,Индия
 udp://@233.7.70.41:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_east.jpg group-title="Фильмовые" ,Viasat TV 1000
+#EXTINF:0 logo= group-title="Фильмовые" ,Cinema
 udp://@233.7.70.36:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ii/illusion_plus.jpg group-title="Фильмовые" ,Иллюзион+
+#EXTINF:0 logo= group-title="Фильмовые" ,Music Box Gold
 udp://@233.7.70.62:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tv21_lv.jpg group-title="Фильмовые" ,TV XXI
+#EXTINF:0 logo= group-title="Фильмовые" ,РБК
 udp://@233.7.70.35:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_retro_tv.jpg group-title="Разные" ,Ретро ТВ
+#EXTINF:0 logo= group-title="Разные" ,Охота и рыбалка
 udp://@233.7.70.44:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/hh/humor_box.jpg group-title="Разные" ,Юмор Box
+#EXTINF:0 logo= group-title="Разные" ,Чуйхуншуа Ошиахуи
 udp://@233.7.70.46:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/uu/uspeh.jpg group-title="Разные" ,Успех
-udp://@233.7.70.34:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ii/inva_media_tv_ru.jpg group-title="Разные" ,Inva Media TV
+#EXTINF:0 logo= group-title="Разные" ,НСТ
 udp://@233.7.70.39:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/soyuz.jpg group-title="Разные" ,Союз
+#EXTINF:0 logo= group-title="Разные" ,Explorer
 udp://@233.7.70.24:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/spas.jpg group-title="Разные" ,СПАС
+#EXTINF:0 logo= group-title="Разные" ,ТВ 21
 udp://@233.7.70.38:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tdk_ru.jpg group-title="Разные" ,ТДК
-udp://@233.7.70.50:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/fashion_tv.jpg group-title="Разные" ,Fashion TV
+#EXTINF:0 logo= group-title="Разные" ,Lagos Live
 udp://@233.7.70.47:5000
-#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/top_shop_tv_ru.jpg group-title="Разные" ,Top Shop
+#EXTINF:0 logo= group-title="Разные",Мама
 udp://@233.7.70.56:5000
 
