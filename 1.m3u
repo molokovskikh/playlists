@@ -1,60 +1,133 @@
-﻿#EXTM3U type=ts dlna_extras=mpeg2 
-#EXTINF:0 logo= group-title="Новости" ,VIJU Nature
-udp://@233.7.70.22:5000Na
-#EXTINF:0 logo= group-title="Новости" ,Ретро
-udp://@233.7.70.42:5000
-#EXTINF:0 logo= group-title="Музыка" ,VIJU TV1000
-udp://@233.7.70.53:5000
-#EXTINF:0 logo= group-title="Музыка" ,Уникум
+#EXTM3U
+#EXTINF:0,Первый канал
+udp://@225.54.203.1:5000
+#EXTINF:0,Россия 1
+udp://@225.54.203.2:5000
+#EXTINF:0,Матч ТВ
+udp://@225.54.203.3:5000
+#EXTINF:0,НТВ
+udp://@225.54.203.4:5000
+#EXTINF:0,5 Канал Санкт-Петербург
+udp://@225.54.203.5:5000
+#EXTINF:0,Россия К
+udp://@225.54.203.6:5000
+#EXTINF:0,Россия 24
+udp://@225.54.203.7:5000
+#EXTINF:0,Карусель
+udp://@225.54.203.8:5000
+#EXTINF:0,ОТР
+udp://@225.54.203.9:5000
+#EXTINF:0,ТВ Центр
+udp://@225.54.203.10:5000
+#EXTINF:0,РЕН-ТВ
+udp://@225.54.203.11:5000
+#EXTINF:0,Спас
+udp://@225.54.203.12:5000
+#EXTINF:0,СТС
+udp://@225.54.203.13:5000
+#EXTINF:0,Домашний
+udp://@225.54.203.14:5000
+#EXTINF:0,ТВ3
+udp://@225.54.203.15:5000
+#EXTINF:0,Пятница
+udp://@225.54.203.16:5000
+#EXTINF:0,Звезда
+udp://@225.54.203.17:5000
+#EXTINF:0,Мир
+udp://@225.54.203.18:5000
+#EXTINF:0,ТНТ
+udp://@225.54.203.19:5000
+#EXTINF:0,Муз ТВ
+udp://@225.54.203.20:5000
+#EXTINF:0,Че
+udp://@225.54.223.211:5000
+#EXTINF:0,Ю
+udp://@225.54.223.221:5000
+#EXTINF:0,Мой Город
+udp://@239.1.128.178:4000
+#EXTINF:0,Disney Channel
+udp://@225.54.223.231:5000
+#EXTINF:0,Детский
 udp://@233.7.70.54:5000
-#EXTINF:0 logo= group-title="Познавательные" ,Футбол 1
-udp://@233.7.70.29:5000
-#EXTINF:0 logo= group-title="Познавательные" ,Футбол 2
-udp://@233.7.70.31:5000
-#EXTINF:0 logo= group-title="Познавательные" ,Plan B
-udp://@233.7.70.33:5000
-#EXTINF:0 logo= group-title="Познавательные" ,соловьевlive
-udp://@233.7.70.32:5000
-#EXTINF:0 logo= group-title="Познавательные" , Дикий. Охота и рыбалка
-udp://@233.7.70.49:5000
-#EXTINF:0 logo= group-title="Познавательные" ,Доктор
-udp://@233.7.70.51:5000
-#EXTINF:0 logo= group-title="Познавательные" ,Ля-ми-нор
-udp://@233.7.70.48:5000
-#EXTINF:0 logo= group-title="Познавательные" ,RuTV
-udp://@233.7.70.63:5000
-#EXTINF:0 logo= group-title="Познавательные" ,VIJU TV1000 русское
-udp://@233.7.70.21:5000
-#EXTINF:0 logo= group-title="Познавательные" ,WFC.TV
-udp://@233.7.70.57:5000
-#EXTINF:0 logo= deinterlace=4 group-title="Познавательные" ,Мульт Музыка
-udp://@233.7.70.23:5000
-#EXTINF:0 logo= group-title="Детские" ,Terra
-udp://@233.7.70.43:5000
-#EXTINF:0 logo= group-title="Детские" ,Ф
-udp://@233.7.70.40:5000
-#EXTINF:0 logo= group-title="Детские" ,БелРос
-udp://@233.7.70.9:5000
-#EXTINF:0 logo= group-title="Детские" ,Индия
-udp://@233.7.70.41:5000
-#EXTINF:0 logo= group-title="Фильмовые" ,Cinema
-udp://@233.7.70.36:5000
-#EXTINF:0 logo= group-title="Фильмовые" ,Music Box Gold
-udp://@233.7.70.62:5000
-#EXTINF:0 logo= group-title="Фильмовые" ,РБК
-udp://@233.7.70.35:5000
-#EXTINF:0 logo= group-title="Разные" ,Охота и рыбалка
-udp://@233.7.70.44:5000
-#EXTINF:0 logo= group-title="Разные" ,Чуйхуншуа Ошиахуи
-udp://@233.7.70.46:5000
-#EXTINF:0 logo= group-title="Разные" ,НСТ
-udp://@233.7.70.39:5000
-#EXTINF:0 logo= group-title="Разные" ,Explorer
-udp://@233.7.70.24:5000
-#EXTINF:0 logo= group-title="Разные" ,ТВ 21
-udp://@233.7.70.38:5000
-#EXTINF:0 logo= group-title="Разные" ,Lagos Live
-udp://@233.7.70.47:5000
-#EXTINF:0 logo= group-title="Разные",Мама
+#EXTINF:0,Радость моя
+udp://@233.7.70.55:5000
+#EXTINF:0,Мама
 udp://@233.7.70.56:5000
-
+#EXTINF:0,Discovery Channel
+udp://@233.7.70.12:5000
+#EXTINF:0,Viasat Explorer
+udp://@233.7.70.16:5000
+#EXTINF:0,Viasat History
+udp://@233.7.70.17:5000
+#EXTINF:0,Техно-24
+udp://@233.7.70.18:5000
+#EXTINF:0,National Geographic
+udp://@233.7.70.43:5000
+#EXTINF:0,СГУ ТВ
+udp://@233.7.70.49:5000
+#EXTINF:0,Просвещение
+udp://@233.7.70.50:5000
+#EXTINF:0,24 Док
+udp://@233.7.70.51:5000
+#EXTINF:0,TVXXI
+udp://@233.7.70.38:5000
+#EXTINF:0,НСТ
+udp://@233.7.70.39:5000
+#EXTINF:0,Феникс+Кино
+udp://@233.7.70.40:5000
+#EXTINF:0,Zee TV
+udp://@233.7.70.41:5000
+#EXTINF:0,2x2
+udp://@225.54.223.241:5000
+#EXTINF:0,France 24
+udp://@233.7.70.30:5000
+#EXTINF:0,Russia Today
+udp://@233.7.70.31:5000
+#EXTINF:0,Euronews
+udp://@233.7.70.32:5000
+#EXTINF:0,Deutsche Welle
+udp://@233.7.70.33:5000
+#EXTINF:0,РБК
+udp://@233.7.70.35:5000
+#EXTINF:0,ТРО Союз
+udp://@233.7.70.9:5000
+#EXTINF:0,Драйв
+udp://@233.7.70.8:5000
+#EXTINF:0,Zooпарк
+udp://@233.7.70.11:5000
+#EXTINF:0,Ретро ТВ
+udp://@233.7.70.42:5000
+#EXTINF:0,Охота и рыбалка
+udp://@233.7.70.44:5000
+#EXTINF:0,Усадьба ТВ
+udp://@233.7.70.45:5000
+#EXTINF:0,Здоровое ТВ
+udp://@233.7.70.47:5000
+#EXTINF:0,English Club TV
+udp://@233.7.70.48:5000
+#EXTINF:0,Анекдот ТВ
+udp://@233.7.70.58:5000
+#EXTINF:0,Ля Минор
+udp://@233.7.70.1:5000
+#EXTINF:0,VH1 European
+udp://@233.7.70.2:5000
+#EXTINF:0,MCM Top
+udp://@233.7.70.3:5000
+#EXTINF:0,Bridge TV
+udp://@233.7.70.4:5000
+#EXTINF:0,ТНТ Music
+udp://@233.7.70.60:5000
+#EXTINF:0,Music Box RU
+udp://@233.7.70.61:5000
+#EXTINF:0,Music Box TV
+udp://@233.7.70.62:5000
+#EXTINF:0,RuTV
+udp://@233.7.70.63:5000
+#EXTINF:0,КХЛ
+udp://@233.7.70.5:5000
+#EXTINF:0,Русский экстрим
+udp://@233.7.70.7:5000
+#EXTINF:0,Shopping Live
+udp://@233.7.70.28:5000
+#EXTINF:0,TopShop TV
+udp://@233.7.70.29:5000
